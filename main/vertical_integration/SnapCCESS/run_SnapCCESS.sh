@@ -1,0 +1,1 @@
+python main_SnapCCESS.py --path1  "../../../dataset/benchmark_dataset/vertical integration/dataset1/rna.h5"  --path2 "../../../dataset/benchmark_dataset/vertical integration/dataset1/adt.h5" --save_path "../../../result/integrated_embedding/vertical integration/dataset1/SnapCCESS/"

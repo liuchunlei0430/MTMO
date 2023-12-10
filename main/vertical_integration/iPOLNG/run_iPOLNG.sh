@@ -1,0 +1,1 @@
+python main_iPOLNG.py --path1  "../../../dataset/benchmark_dataset/vertical integration/dataset12/rna.h5"  --path2 "../../../dataset/benchmark_dataset/vertical integration/dataset12/peak.h5" --save_path "../../../result/integrated_embedding/vertical integration/dataset12/iPOLNG/"

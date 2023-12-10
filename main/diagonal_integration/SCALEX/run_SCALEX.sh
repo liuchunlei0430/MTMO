@@ -1,0 +1,1 @@
+python main_SCALEX.py --path1 "../../../dataset/benchmark_dataset/diagonal integration/dataset18/rna_gas.h5" --path2 "../../../dataset/benchmark_dataset/diagonal integration/dataset18/peak_gas.h5" --save_path "../../../result/integrated_embedding/diagonal integration/dataset18/SCALEX/"
